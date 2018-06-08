@@ -1,10 +1,6 @@
-node_modules
+.DS_Store
+node_modules/
+dist/
 npm-debug.log
-start.sh
-.avoscloud
-.leancloud
-public
-
-# VIM
-*~
-*.swp
+yarn-error.log
+test/unit/coverage
